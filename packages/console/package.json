@@ -11,6 +11,6 @@
   "description": "",
   "dependencies": {
     "dotenv": "^16.4.7",
-    "sst": "^3.9.14"
+    "sst": "^3.17.6"
   }
 }
